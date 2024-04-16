@@ -1,0 +1,14 @@
+{
+  "UniqueName": "Ravenlations.DemoMod",
+  "Version": "0.0.1",
+  "Author": "Author",
+  "Description": "Test",
+  "RequiredApiVersion": "0.6.0",
+  "EntryPointAssembly": "DemoMod.dll",
+  "Dependencies": [
+    {
+      "UniqueName": "Shockah.Kokoro",
+      "Version": "1.3.1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGPFYK592jLoDOVbDzwtOJFHwZNLvVKF2lDq7XFdzd0bhfjlemAQRI5c/u/mijOK2skGFuWksimXgPYDRLejJA==",
+  "success": true,
+  "projectFilePath": "E:\\Mods\\DemoMod-main\\DemoMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanu\\.nuget\\packages\\nanoray.extractsinglefileapplicationresourcetask\\1.0.0\\nanoray.extractsinglefileapplicationresourcetask.1.0.0.nupkg.sha512",
+    "C:\\Users\\juanu\\.nuget\\packages\\nickel.modbuildconfig\\0.4.0\\nickel.modbuildconfig.0.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

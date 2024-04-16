@@ -1,0 +1,92 @@
+{
+  "character": {
+    "DemoCharacter": {
+      "name": "Dimitri",
+      "description": "<c=f5d130>Dimitri</c>\nThis is russian hacker. I have kat named <c=boldPink>Boris</c>"
+    }
+  },
+  "artifact": {
+    "BookOfTails": {
+      "name": "FREE MONEY",
+      "description": "At start of turn,gain an energy and add a <c=cardtrait>temp</c> <c=card>Annoying PopUp</c> to your hand."
+    },
+    "Counting": {
+      "name": "Unknown Bug",
+      "description": "At start of turn, stare at the screen looking for the error. Once you counted 3 turns, gain 1 <c=status>BACKWARDS MISSILE</c> and start counting again."
+    }
+  },
+  "ship": {
+    "DemoShip": {
+      "name": "Cannoneer",
+      "description": "2 cannons? There is 2 of them?"
+    }
+  },
+  "card": {
+
+    "Missiles": {
+      "name": "A Fuck Ton of Missiles"
+    },
+    "PotOfGreed": {
+      "name": "Pot of Greed",
+      "description": {
+        "None": "IT ALLOWS YOU TO DRAW 2 CARDS FROM YOUR DECK.",
+        "A": "POTS OF GREED 2 TIMES.",
+        "B": "POTS OF GREED 3 TIMES."
+      }
+    },
+    "Missclick": {
+      "name": "Missclick"
+    },
+    "RandomBullshit": {
+      "name": "Random Bullshit"
+    },
+    "Virus": {
+      "name": "Chaos Virus"
+    },
+    "SkillIssue": {
+      "name": "Skill Issue"
+    },
+    "HackerBoost": {
+      "name": "Hacker Boost"
+    },
+    "CheatCode": {
+      "name": "Cheat Code"
+    },
+    "GodMode": {
+      "name": "God Mode"
+    },
+    "Glitch": {
+      "name": "Glitch"
+    },
+    "FirmwareUpdate": {
+      "name": "Firmware Update"
+    },
+    "FortniteCard": {
+      "name": "Fortnite BattlePass",
+      "description": {
+        "None": "Create a ChugJug in your hand.",
+        "A": "Create 2 ChugJug in your draw pile.",
+        "B": "Create a Default Emote and a Chug Jug in your hand."
+      }
+    },
+    "FortniteShield": {
+      "name": "Chug Jug"
+    },
+    "FortniteDance": {
+      "name": "Default Emote"
+    },
+    "PopUp": {
+      "name": "Annoying PopUp"
+    }
+  },
+  "status": {
+    "AutododgeLeftNextTurn": {
+      "name": "Autododge Left Next Turn",
+      "description": "At the start of next turn, gain <c=boldPink>{0}</c> <c=status>AUTODODGE LEFT</c>."
+    },
+    "BackwardsMissiles": {
+      "name": "Permanent Backwards Missile 'Boost'",
+      "description": "At the start of every turn, gain <c=boldYellow>{0}</c> <c=status>BACKWARDS MISSILES</c>."
+    }
+  }
+} 
